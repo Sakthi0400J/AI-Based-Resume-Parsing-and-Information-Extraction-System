@@ -2,7 +2,6 @@
 
 An intelligent resume parsing system that extracts structured information from resumes (PDF/DOCX) using a hybrid approach:
 - ⚙️ Rule-based NLP pipeline (fast & deterministic)
-- 🤖 LLM fallback (Claude API) for handling complex/unstructured resumes
 
 ---
 
